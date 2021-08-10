@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/buzzle2/static/css/main.c36d74c1.chunk.css",
-    "main.js": "/buzzle2/static/js/main.e061fc66.chunk.js",
-    "main.js.map": "/buzzle2/static/js/main.e061fc66.chunk.js.map",
-    "runtime-main.js": "/buzzle2/static/js/runtime-main.7e8cb1c7.js",
-    "runtime-main.js.map": "/buzzle2/static/js/runtime-main.7e8cb1c7.js.map",
-    "static/js/2.659c05bf.chunk.js": "/buzzle2/static/js/2.659c05bf.chunk.js",
-    "static/js/2.659c05bf.chunk.js.map": "/buzzle2/static/js/2.659c05bf.chunk.js.map",
-    "index.html": "/buzzle2/index.html",
-    "static/css/main.c36d74c1.chunk.css.map": "/buzzle2/static/css/main.c36d74c1.chunk.css.map",
-    "static/js/2.659c05bf.chunk.js.LICENSE.txt": "/buzzle2/static/js/2.659c05bf.chunk.js.LICENSE.txt",
-    "static/media/1.5296e2c1.png": "/buzzle2/static/media/1.5296e2c1.png",
-    "static/media/2.7e790b43.png": "/buzzle2/static/media/2.7e790b43.png",
-    "static/media/3.da4da1a4.png": "/buzzle2/static/media/3.da4da1a4.png",
-    "static/media/App.css": "/buzzle2/static/media/XM-Vahid.7f80b58a.ttf",
-    "static/media/logo with R.32124d22.png": "/buzzle2/static/media/logo with R.32124d22.png"
+    "main.css": "./static/css/main.ab144fd0.chunk.css",
+    "main.js": "./static/js/main.0f8ad17b.chunk.js",
+    "main.js.map": "./static/js/main.0f8ad17b.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.86bfe914.js",
+    "runtime-main.js.map": "./static/js/runtime-main.86bfe914.js.map",
+    "static/js/2.659c05bf.chunk.js": "./static/js/2.659c05bf.chunk.js",
+    "static/js/2.659c05bf.chunk.js.map": "./static/js/2.659c05bf.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.ab144fd0.chunk.css.map": "./static/css/main.ab144fd0.chunk.css.map",
+    "static/js/2.659c05bf.chunk.js.LICENSE.txt": "./static/js/2.659c05bf.chunk.js.LICENSE.txt",
+    "static/media/1.5296e2c1.png": "./static/media/1.5296e2c1.png",
+    "static/media/2.7e790b43.png": "./static/media/2.7e790b43.png",
+    "static/media/3.da4da1a4.png": "./static/media/3.da4da1a4.png",
+    "static/media/App.css": "./static/media/XM-Vahid.7f80b58a.ttf",
+    "static/media/logo with R.32124d22.png": "./static/media/logo with R.32124d22.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.7e8cb1c7.js",
+    "static/js/runtime-main.86bfe914.js",
     "static/js/2.659c05bf.chunk.js",
-    "static/css/main.c36d74c1.chunk.css",
-    "static/js/main.e061fc66.chunk.js"
+    "static/css/main.ab144fd0.chunk.css",
+    "static/js/main.0f8ad17b.chunk.js"
   ]
 }
